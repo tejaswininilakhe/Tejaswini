@@ -79,14 +79,16 @@ struct sCommData
 */
 
 
-/*struct stDevicePar
+/***************************************************************************************
+struct stDevicePar
 {
   unsigned char ucRed;
   unsigned char ucGreen;
   unsigned char ucBlue;
   unsigned  char ucFanSpeed;
   unsigned  char ucFlouid;
-};*/
+};
+****************************************************************************************/
 
 
 
