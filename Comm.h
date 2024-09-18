@@ -12,12 +12,12 @@
 
 struct sCommData
 {
-  float fCalibFact_VtgR;
-  float fCalibFact_VtgY;
-  float fCalibFact_VtgB;
-  float fCalibFact_CurA;
-  float fCalibFact_CurB;
-  float fCalibFact_CurC;
+  float fCalibFact_VtgR;               //Voltage Calibration factor for R Phase
+  float fCalibFact_VtgY;               //Voltage Calibration factor for Y Phase
+  float fCalibFact_VtgB;               //Voltage Calibration factor for B Phase
+  float fCalibFact_CurA;               //Current Calibration factor for R Phase
+  float fCalibFact_CurB;               //Current Calibration factor for Y Phase
+  float fCalibFact_CurC;               //Current Calibration factor for B Phase
   unsigned int uiROverVtg;
   unsigned int uiYOverVtg;
   unsigned int uiBOverVtg;
