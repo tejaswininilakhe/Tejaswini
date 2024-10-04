@@ -18,10 +18,11 @@ struct sCommData
   float fCalibFact_CurA;               //Current Calibration factor for R Phase
   float fCalibFact_CurB;               //Current Calibration factor for Y Phase
   float fCalibFact_CurC;               //Current Calibration factor for B Phase
+//Variables of Overvoltage
   unsigned int uiROverVtg;
   unsigned int uiYOverVtg;
   unsigned int uiBOverVtg;
-
+//Variable for undervoltage
   unsigned int uiRUndVtg;
   unsigned int uiYUndVtg;
   unsigned int uiBUndVtg;
