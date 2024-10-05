@@ -26,11 +26,11 @@ struct sCommData
   unsigned int uiRUndVtg;
   unsigned int uiYUndVtg;
   unsigned int uiBUndVtg;
-
+//Variable for Dry Run
   unsigned int uiRDryRun;
   unsigned int uiYDryRun;
   unsigned int uiBDryRun;
-  
+ //Variable for OverCurrent 
   unsigned int uiROverCur;
   unsigned int uiYOverCur;
   unsigned int uiBOverCur;
