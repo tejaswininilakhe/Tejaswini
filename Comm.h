@@ -91,7 +91,7 @@ struct stDevicePar
 };
 ****************************************************************************************/
 
-
+//Serial COmmunication Functions
 
 void vSerialInit(void);
 unsigned char ucFindIndex( unsigned char *ucSource,unsigned char ucData,unsigned char ucIndex);
