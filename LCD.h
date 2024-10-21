@@ -12,4 +12,4 @@ sbit LCD_D4_Direction at DDB4_bit;
 sbit LCD_D5_Direction at DDB3_bit;
 sbit LCD_D6_Direction at DDB2_bit;
 sbit LCD_D7_Direction at DDB1_bit;
-/****************************************************************/
+/***********************End ********************************/
